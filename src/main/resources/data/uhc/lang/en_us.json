@@ -9,7 +9,7 @@
   "mode.squads": "Squads",
 
   "text.uhc.and": "and",
-  "text.uhc.deathmatch": "Deathmatch",
+  "text.uhc.deathmatchTime": "Deathmatch",
   "text.uhc.dropped_players": "Players have been dropped on the map.",
   "text.uhc.dropping.countdown_bar": "Drop in %s",
   "text.uhc.dropping.countdown_text": "You will be dropped in %s.",
